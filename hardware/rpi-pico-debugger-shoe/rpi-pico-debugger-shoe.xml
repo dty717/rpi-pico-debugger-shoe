@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:\Users\sgmustadio\Documents\GitHub\rpi-pico-debugger-shoe\hardware\rpi-pico-debugger-shoe\rpi-pico-debugger-shoe.sch</source>
+    <source>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/rpi-pico-debugger-shoe/rpi-pico-debugger-shoe.sch</source>
     <date>5/13/2021 6:50:17 PM</date>
     <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -834,34 +834,34 @@
   </libparts>
   <libraries>
     <library logical="10118193-0001LF">
-      <uri>C:/Users/sgmustadio/Documents/GitHub/rpi-pico-debugger-shoe/hardware/libraries/10118193-0001LF/10118193-0001LF.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/10118193-0001LF/10118193-0001LF.lib</uri>
     </library>
     <library logical="150060VS75000">
-      <uri>C:\Users\sgmustadio\Documents\GitHub\rpi-pico-debugger-shoe\hardware\libraries\150060VS75000\150060VS75000.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/150060VS75000/150060VS75000.lib</uri>
     </library>
     <library logical="2021-05-11_23-45-12">
-      <uri>C:/Users/sgmustadio/Documents/GitHub/rpi-pico-debugger-shoe/hardware/libraries/2021-05-11_23-45-12/2021-05-11_23-45-12.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/2021-05-11_23-45-12/2021-05-11_23-45-12.lib</uri>
     </library>
     <library logical="2021-05-12_00-19-53">
-      <uri>C:/Users/sgmustadio/Documents/GitHub/rpi-pico-debugger-shoe/hardware/libraries/2021-05-12_00-19-53/2021-05-12_00-19-53.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/2021-05-12_00-19-53/2021-05-12_00-19-53.lib</uri>
     </library>
     <library logical="2021-05-12_00-49-18">
-      <uri>C:/Users/sgmustadio/Documents/GitHub/rpi-pico-debugger-shoe/hardware/libraries/2021-05-12_00-49-18/2021-05-12_00-49-18.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/2021-05-12_00-49-18/2021-05-12_00-49-18.lib</uri>
     </library>
     <library logical="2021-05-12_02-12-02">
-      <uri>C:/Users/sgmustadio/Documents/GitHub/rpi-pico-debugger-shoe/hardware/libraries/2021-05-12_02-12-02/2021-05-12_02-12-02.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/2021-05-12_02-12-02/2021-05-12_02-12-02.lib</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+      <uri>C:/Program Files/KiCad/share/kicad/library/Connector_Generic.lib</uri>
     </library>
     <library logical="Device">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+      <uri>C:/Program Files/KiCad/share/kicad/library/Device.lib</uri>
     </library>
     <library logical="Jumper">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Jumper.lib</uri>
+      <uri>C:/Program Files/KiCad/share/kicad/library/Jumper.lib</uri>
     </library>
     <library logical="W25Q16JVSSIQ">
-      <uri>C:/Users/sgmustadio/Documents/GitHub/rpi-pico-debugger-shoe/hardware/libraries/W25Q16JVSSIQ/W25Q16JVSSIQ.lib</uri>
+      <uri>C:/Users/18751/Desktop/work/Electronics/PCB/rpi-pico-debugger-shoe/hardware/libraries/W25Q16JVSSIQ/W25Q16JVSSIQ.lib</uri>
     </library>
   </libraries>
   <nets>
